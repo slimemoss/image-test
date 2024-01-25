@@ -3,7 +3,7 @@ import * as React from 'react'
 export const P1 = () => {
   return (
     <>
-      p1
+      <img src="./dist/image/test.jpeg"/>
     </>
   )
 }
